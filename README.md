@@ -10,5 +10,3 @@ In `FunnyStoryApp`, there is some setup files for a .exe file. Check out `Funny 
 `funny_story_gui.py` is the .py version of the `Funny Story.exe`.
 
 Setup Files are located in `Setup/`.
-
-Don't treat `build/funny_story_gui/` as a bug. It's just like that.
