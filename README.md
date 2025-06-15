@@ -1,6 +1,6 @@
 # Programs
 Hi there!
-THese programs are the ones I've coded in the past.
+These programs are the ones I've coded in the past.
 The quality may not be nice, and they *may* be some bugs in there... 😊
 Some of them are 100% made by **me**, some others are coded by **AI**, and some are copies of famous programmers' projects.
 Hope you'll have fun!
